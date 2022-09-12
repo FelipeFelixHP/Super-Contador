@@ -1,2 +1,2 @@
 # Super-Contador
-Nesse contador você vai encontrar vários tratamentos e minimizam os erros do usuário.   
+Nesse contador você vai encontrar vários tratamentos que minimizam os erros do usuário.   
